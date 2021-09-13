@@ -10,7 +10,7 @@ public class StartSpringDemo {
 		// TODO Auto-generated method stub
 		SpringApplication.run(StartSpringDemo.class, args);
 		GitTest.testGit();
-		System.out.println("Spring Start Demo!!");
+		System.out.println("Hello Anu");
 	}
 
 }
